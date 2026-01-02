@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# Editor directories
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model artifacts and pickles
+*.pkl
+
+# Raw data (exclude folders used for large/raw datasets)
+/data/full/
+/data/others/
+
+# Ignore any local secrets
+.env.local
+secrets.json
+
+# Notebook outputs (optional)
+*.nbconverted
