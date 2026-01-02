@@ -52,7 +52,3 @@ Notes:
 ## License
 
 This project is licensed under the MIT License — see `LICENSE` for details.
-
----
-
-If you would like, I can also add a shorter English summary for the notebook header and a `requirements.txt` file listing the exact package versions used for reproduction.
